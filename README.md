@@ -23,4 +23,4 @@ This project focuses on practicing **modern animations** and recreating the look
 ## 📂 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/sidcup-family-golf-clone.git
+   git clone https://github.com/Aqnufais/sidcupfamilygolf.git
